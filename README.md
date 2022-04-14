@@ -1,9 +1,18 @@
-### Hi there 👋
+### 
 
-Back-End Programmer
+✨Back-End Programmer
 
-Language   : Java, Python
-Interested : Spring, JPA, Django
+<h3 align="center">Skill</h3>
+<div align=center>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+</div>
+
+<h3 align="center">Contact</h3>
+<div align=center>
+  <a href="mailto:thsrns3934@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dwenup@gmail.com"/></a>
+</div>
 
 <!--
 **shm39/shm39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
