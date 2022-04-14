@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Back-End Programmer
+
+Language   : Java, Python
+Interested : Spring, JPA, Django
+
 <!--
 **shm39/shm39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
