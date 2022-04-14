@@ -2,15 +2,15 @@
 
 ✨Back-End Programmer
 
-<h3 align="center">Skill</h3>
-<div align=center>
+<h3 align="left">Skill</h3>
+<div align=left>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
 
-<h3 align="center">Contact</h3>
-<div align=center>
+<h3 align="left">Contact</h3>
+<div align=left>
   <a href="mailto:thsrns3934@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dwenup@gmail.com"/></a>
 </div>
 
